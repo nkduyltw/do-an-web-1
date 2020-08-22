@@ -1,0 +1,166 @@
+
+
+body{ 
+    background:rgb(223, 220, 220);
+}
+
+#example1 {
+    padding: 10px;
+    margin :10px;
+    background:white;
+    border-radius:4px/4px;
+}
+#displayName{
+    color: rgb(14, 14, 160);
+}
+#content{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.navbar{
+    background: #3b5998 !important;
+    height: 58px;
+}
+.navbar #fa{
+    color: #fff !important;
+    margin-left: 20px;
+}
+.btn-search{
+    margin-left:-8px ;
+}
+.input-search{
+    width: 400px !important;
+    margin-left: 100px;
+}
+.navbar #header-menu{
+    margin-left: 250px;
+}
+.navbar #header-menu  a{
+    color: black;
+    padding: 10px;
+}
+.db-name{
+    margin-top: -5px;
+}
+.db-name span{
+    font-weight: bold;
+}
+.db-img{
+    width: 176px;
+    height: 176px;
+}
+.jumbotron{
+    height: 365px;
+    background-image:linear-gradient(rgba(30,30,30,0.5),rgba(30,30,30,0.5)) ,url('lotus.jpg');
+    background-position: center;
+    background-attachment:fixed ;
+}
+.db{
+    position: absolute;
+    margin-top: 180px;
+    z-index: 10;
+}
+.db a{
+    color: #fff;
+    font-size: 2.2em;
+    margin-left:2px;
+    padding: 0px;
+}
+.db-img{
+    border: 4px solid white;
+}
+.db-img:hover{
+    border: 4px solid #ffb300;
+    cursor: pointer;
+}
+.timeline-nav{
+    background: #fff !important;
+    padding: 0.5rem;
+    margin-top: -1.9em;
+    
+}
+.timeline-nav .nav{
+    margin-left: 26%;
+    position: relative;
+    z-index: 20;
+}
+.post{
+    background: #fff;
+    border: 1px solid rgba(33, 33, 33, .33);
+    padding: 1em;
+    margin-bottom: 10px;
+}
+.content{
+    margin-left: 10px;
+}
+.img-post img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    max-width: 100%;
+    min-height: 100%;
+}
+.postStatus
+{
+    background: #fff;
+    border: 1px solid rgba(33, 33, 33, .33);
+    padding: 1em;
+    margin-bottom: 10px;
+}
+.postStatus form .custom-file{
+    margin-top: 10px;
+}
+
+#sory{
+    text-align: center;
+    margin-top: 70px;
+}
+ .img-index img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-width: 20%;
+    min-height: 20%;
+}
+#update-profile{
+    background: #fff;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.faLogin{
+    margin-top: 20px;
+    color: white;
+    margin-left: 100px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 60px;
+}
+.custom{
+    background: #3b5998;
+    height:90px;
+}
+.lableLogin{
+    margin-top: 5px;
+    color: rgb(221, 221, 221);
+}
+#loginButton{
+    margin-top: 35px;
+    margin-right: 10px;
+    background-color:  #3b5998 !important;
+    border: 1px solid black;
+}
+#exampleInputEmail1{
+    height: 30px;
+}
+.container #seachUser{
+    background-color: #fff ;
+    padding: 50px;
+    border: 1px solid rgba(33, 33, 33, .33);
+    margin-bottom: 10px;
+}
+.container .friends{
+    background-color: #fff;
+}
